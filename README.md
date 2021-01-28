@@ -1,5 +1,6 @@
 # CLI-Todo - Simple shell based todo.
 A simple todo project written purely using shell script.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ## Table of contents
 * Why yet another Todo
 * Technologies
