@@ -14,11 +14,11 @@ read -s varChoice
 
 if [ $varChoice == 1 ]
 then
-cat task.txt
+nano task.txt
 fi
 if [ $varChoice == 2 ]
 then
-cat task.txt
+nano task.txt
 fi
 if [ $varChoice == 3 ]
 then
@@ -26,5 +26,5 @@ cat task.txt
 fi
 if [ $varChoice == 4 ]
 then
-cat task.txt
+: > task.txt
 fi
